@@ -16,7 +16,7 @@
 - [x] Sui CLI Version: sui 1.38.3 
 - [x] Sui Wallet Screenshot: ![](../duch25/images/sui_wallet.png)
 - [x] Package ID: `0xe84233bbe82a5bd3f4053362c2cf60aa6f01801c5b1595f8f551a4eb0d6911df`
-- [x] Package ID's Screenshot from Explorer: ![](../duch25/images/task1_package_id.png)
+- [x] Package ID's Screenshot from Explorer: ![](../duch25/images/task1_published_package.png)
 
 ### 02 move coin
 - [ ] `My Coin` Package ID:
